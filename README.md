@@ -4,7 +4,7 @@
 <h1 align="center">Log Parsing Challenge</h1>
 
 <h2 align="center">Important Notes:</h2>
-<p align="center">I specifically write a code that does not consider in any way when a player kills itself. So if a player kills itself, it doesn’t increase their kills, the match total kills and neither the kills by means.</p>
+<p align="center">I specifically wrote the code in a way that does not consider in any way when a player kills itself. So if a player kills itself, it doesn’t increase their kills, the match total kills and neither the kills by means.</p>
 <p align="center">If a player is killed by the world more times than they killed other players, this player kills score is going to be 0 for that match.</p>
 <p>I used ruby 3.0.0 while developing this, if you need it in another ruby version, just let me know and I can change it.</p>
 <p>The challenge description didn't ask for any automated tests, but I did create a couple ones for the main logic in this project.</p>
